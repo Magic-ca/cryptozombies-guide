@@ -13,6 +13,7 @@
     "react": "^18.1.0",
     "react-bootstrap": "^2.3.1",
     "react-dom": "^18.1.0",
+    "react-jquery-plugin": "^1.1.7",
     "react-scripts": "5.0.1",
     "truffle": "^5.5.13",
     "web-vitals": "^2.1.4",
